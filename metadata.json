@@ -1,0 +1,8 @@
+{
+  "name": "Rappi Copywriter Meta Ads",
+  "description": "Analizador de creatividades publicitarias y redactor senior de copys para Meta Ads con el tono oficial de Rappi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
